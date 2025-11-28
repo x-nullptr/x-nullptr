@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 📫 How to reach me [telegram](https://t.me/x_nullptr)
+- 📫 How to reach me: [telegram](https://t.me/x_nullptr)
 
 <p align="left">
 </p>
